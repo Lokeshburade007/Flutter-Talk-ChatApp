@@ -1,0 +1,87 @@
+[
+  {
+    "author": {
+      "username": "Lokesh007"
+    },
+    "createdAt": 1598438599000,
+    "id": "10001",
+    "text": "Oh, that looks wonderful!",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "author": {
+      "username": "john_doe"
+    },
+    "createdAt": 1598438599100,
+    "id": "10002",
+    "text": "This is amazing work!",
+    "image":"https://picsum.photos/200"
+  },
+  {
+    "author": {
+      "username": "amy_lee"
+    },
+    "createdAt": 1598438599200,
+    "id": "10003",
+    "text": "Absolutely love this!"
+  },
+  {
+    "author": {
+      "username": "Lokesh007"
+    },
+    "createdAt": 1598438599300,
+    "id": "10004",
+    "text": "Great job, keep it up!",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "author": {
+      "username": "sarah_t"
+    },
+    "createdAt": 1598438599400,
+    "id": "10005",
+    "text": "Fantastic work as always!"
+  },
+  {
+    "author": {
+      "username": "chris_k"
+    },
+    "createdAt": 1598438599500,
+    "id": "10006",
+    "text": "Wow, this is impressive!"
+  },
+  {
+    "author": {
+      "username": "emma_b"
+    },
+    "createdAt": 1598438599600,
+    "id": "10007",
+    "text": "I absolutely love it!"
+  },
+  {
+    "author": {
+      "username": "Lokesh007"
+    },
+    "createdAt": 1598438599700,
+    "id": "10008",
+    "text": "Looks fantastic, well done!"
+  },
+  {
+    "author": {
+      "username": "lucy_h"
+    },
+    "createdAt": 1598438599800,
+    "id": "10009",
+    "text": "This is just incredible!",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "author": {
+      "username": "Lokesh007"
+    },
+    "createdAt": 1598438599900,
+    "id": "10010",
+    "text": "Amazing attention to detail!",
+    "image": "https://picsum.photos/200/300"
+  }
+]
